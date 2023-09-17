@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Beginners Guide</name>
+   <tag></tag>
+   <elementGuidId>e18ba89b-304d-4f0c-bc19-6abd3131b840</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Contents'])[1]/preceding::font[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>1b16c0b1-5c65-45e9-ab96-da5e4d063a03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>+2</value>
+      <webElementGuid>b8f25110-8334-46cf-a194-25039bbb2d3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>WHITE</value>
+      <webElementGuid>b9108765-737f-4533-9a7a-306adb41bad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beginner's Guide</value>
+      <webElementGuid>644438ab-d6c7-4df2-8d00-874934a9dd49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/b[1]/font[1]</value>
+      <webElementGuid>8759f29f-752f-4fa7-9d8a-8d665ad964d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/FramesSample/Page_A Page with 3 Frames/frame</value>
+      <webElementGuid>02e442de-b0fd-468c-98de-484174eeda1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contents'])[1]/preceding::font[1]</value>
+      <webElementGuid>fcf533ce-6ce7-488b-aa75-e1e1ae38783e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//font</value>
+      <webElementGuid>bdce6064-e553-4086-891a-cb98dac3da66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = concat(&quot;Beginner&quot; , &quot;'&quot; , &quot;s Guide&quot;) or . = concat(&quot;Beginner&quot; , &quot;'&quot; , &quot;s Guide&quot;))]</value>
+      <webElementGuid>7f86d899-cb84-478b-9e50-eaa287839067</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Beginners Guide</name>
+   <tag></tag>
+   <elementGuidId>627e6dda-32a0-4f16-9d44-fac7de2dba1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Contents'])[1]/preceding::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8ce162bf-945d-40c6-a2c6-671f785b378b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>76910b6c-d158-4bc5-bafc-7b846a9a0efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beginner's Guide</value>
+      <webElementGuid>440733c9-374c-46cd-a392-6bf8630f7820</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]</value>
+      <webElementGuid>ab783abf-956b-499f-bd84-2b4e07506e9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/FramesSample/Page_A Page with 3 Frames/frame</value>
+      <webElementGuid>c3c73a2f-4d16-4818-9f2e-4ebb46a4f4d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contents'])[1]/preceding::div[1]</value>
+      <webElementGuid>f92691f3-272d-4d4f-a9ec-465a14b2713a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>f67cdf99-ba58-488d-8f2b-f8e3cfa201f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Beginner&quot; , &quot;'&quot; , &quot;s Guide&quot;) or . = concat(&quot;Beginner&quot; , &quot;'&quot; , &quot;s Guide&quot;))]</value>
+      <webElementGuid>86dffa39-6c0d-4db4-a308-25a57e0ca749</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
